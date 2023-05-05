@@ -1,0 +1,20 @@
+[
+        {
+            "id":1,
+            "fName":"Volkan",
+            "lName":"Aslan",
+            "city":"Antalya"
+        },
+        {
+            "id":2,
+            "fName":"Engin",
+            "lName":"Demiroğ",
+            "city":"Ankara"
+        },
+        {
+            "id":3,
+            "fName":"Behsat",
+            "lName":"Ç.",
+            "city":"Ankara"
+        }
+    ]
